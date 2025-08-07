@@ -1,7 +1,4 @@
-# chatbot_karishma.py
 # Made by: Karishma Rajput 🌿
-# A friendly chatbot using if-else based responses
-
 import time
 
 def bot_reply(user_input):
@@ -46,3 +43,4 @@ def start_chat():
 
 if __name__ == "__main__":
     start_chat()
+
